@@ -11,3 +11,7 @@ h2 {
     color: rgb(0, 255, 64);
     padding: 5rem;
 }
+
+body {
+    background-color: aquamarine;
+}
